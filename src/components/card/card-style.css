@@ -1,0 +1,15 @@
+.card {
+  border: 1px solid black;
+  color: white;
+  padding: 8px;
+  margin: 30px;
+  text-align: center;
+  background-color: rgb(62, 63, 65);
+  cursor: pointer;
+  border-radius: 15px;
+  transition: transform 0.2s;
+}
+.card:hover {
+  background-color: rgb(80, 81, 82);
+  transform: scale(1.02);
+}

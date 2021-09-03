@@ -1,0 +1,11 @@
+.input__search {
+  border: 2px solid black;
+  outline: none;
+  border-radius: 10px;
+  width: 250px;
+  line-height: 30px;
+  font-size: 1rem;
+}
+::placeholder {
+  font-size: 1rem;
+}
